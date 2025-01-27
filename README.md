@@ -1,9 +1,3 @@
-### MyOrmawa - CRUD App
-Aplikasi CRUD Sederhana berbasis Flutter dengan API dari MockAPI berdasarkan studi kasus sistem manajemen keanggotaan organisasi mahasiswa.
-
-### Preview
-[![MyOrmawa Flutter Preview](https://img.youtube.com/vi/dEHWEogwVz4/maxresdefault.jpg)](https://youtu.be/dEHWEogwVz4)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
